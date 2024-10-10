@@ -1,0 +1,207 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\akiro\\source\\repos\\ChartWpfMVVM\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{92A576A3-76E2-495F-B96F-EC9E1189A62A}|ChartWpfMVVM\\ChartWpfMVVM.csproj|c:\\users\\akiro\\source\\repos\\chartwpfmvvm\\chartwpfmvvm\\viewmodels\\mainwindowviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{92A576A3-76E2-495F-B96F-EC9E1189A62A}|ChartWpfMVVM\\ChartWpfMVVM.csproj|solutionrelative:chartwpfmvvm\\viewmodels\\mainwindowviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{92A576A3-76E2-495F-B96F-EC9E1189A62A}|ChartWpfMVVM\\ChartWpfMVVM.csproj|c:\\users\\akiro\\source\\repos\\chartwpfmvvm\\chartwpfmvvm\\models\\chartmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{92A576A3-76E2-495F-B96F-EC9E1189A62A}|ChartWpfMVVM\\ChartWpfMVVM.csproj|solutionrelative:chartwpfmvvm\\models\\chartmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{92A576A3-76E2-495F-B96F-EC9E1189A62A}|ChartWpfMVVM\\ChartWpfMVVM.csproj|c:\\users\\akiro\\source\\repos\\chartwpfmvvm\\chartwpfmvvm\\views\\mainwindow.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{92A576A3-76E2-495F-B96F-EC9E1189A62A}|ChartWpfMVVM\\ChartWpfMVVM.csproj|solutionrelative:chartwpfmvvm\\views\\mainwindow.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5E6442D8-9011-4C6A-9BB9-2D1E7FC2DFAB}|ChartWpfMVVM.WpfLibrary\\ChartWpfMVVM.WpfLibrary.csproj|c:\\users\\akiro\\source\\repos\\chartwpfmvvm\\chartwpfmvvm.wpflibrary\\canvaschartcomponent.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5E6442D8-9011-4C6A-9BB9-2D1E7FC2DFAB}|ChartWpfMVVM.WpfLibrary\\ChartWpfMVVM.WpfLibrary.csproj|solutionrelative:chartwpfmvvm.wpflibrary\\canvaschartcomponent.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5E6442D8-9011-4C6A-9BB9-2D1E7FC2DFAB}|ChartWpfMVVM.WpfLibrary\\ChartWpfMVVM.WpfLibrary.csproj|c:\\users\\akiro\\source\\repos\\chartwpfmvvm\\chartwpfmvvm.wpflibrary\\icanvaschartcomponent.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5E6442D8-9011-4C6A-9BB9-2D1E7FC2DFAB}|ChartWpfMVVM.WpfLibrary\\ChartWpfMVVM.WpfLibrary.csproj|solutionrelative:chartwpfmvvm.wpflibrary\\icanvaschartcomponent.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5E6442D8-9011-4C6A-9BB9-2D1E7FC2DFAB}|ChartWpfMVVM.WpfLibrary\\ChartWpfMVVM.WpfLibrary.csproj|c:\\users\\akiro\\source\\repos\\chartwpfmvvm\\chartwpfmvvm.wpflibrary\\canvaschartsettings.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5E6442D8-9011-4C6A-9BB9-2D1E7FC2DFAB}|ChartWpfMVVM.WpfLibrary\\ChartWpfMVVM.WpfLibrary.csproj|solutionrelative:chartwpfmvvm.wpflibrary\\canvaschartsettings.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5E6442D8-9011-4C6A-9BB9-2D1E7FC2DFAB}|ChartWpfMVVM.WpfLibrary\\ChartWpfMVVM.WpfLibrary.csproj|c:\\users\\akiro\\source\\repos\\chartwpfmvvm\\chartwpfmvvm.wpflibrary\\interpolators\\icanvaschartinterpolator.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5E6442D8-9011-4C6A-9BB9-2D1E7FC2DFAB}|ChartWpfMVVM.WpfLibrary\\ChartWpfMVVM.WpfLibrary.csproj|solutionrelative:chartwpfmvvm.wpflibrary\\interpolators\\icanvaschartinterpolator.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5E6442D8-9011-4C6A-9BB9-2D1E7FC2DFAB}|ChartWpfMVVM.WpfLibrary\\ChartWpfMVVM.WpfLibrary.csproj|c:\\users\\akiro\\source\\repos\\chartwpfmvvm\\chartwpfmvvm.wpflibrary\\interpolators\\canvaschartbasicinterpolators.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5E6442D8-9011-4C6A-9BB9-2D1E7FC2DFAB}|ChartWpfMVVM.WpfLibrary\\ChartWpfMVVM.WpfLibrary.csproj|solutionrelative:chartwpfmvvm.wpflibrary\\interpolators\\canvaschartbasicinterpolators.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5E6442D8-9011-4C6A-9BB9-2D1E7FC2DFAB}|ChartWpfMVVM.WpfLibrary\\ChartWpfMVVM.WpfLibrary.csproj|c:\\users\\akiro\\source\\repos\\chartwpfmvvm\\chartwpfmvvm.wpflibrary\\internals\\canvaschartvisualhost.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5E6442D8-9011-4C6A-9BB9-2D1E7FC2DFAB}|ChartWpfMVVM.WpfLibrary\\ChartWpfMVVM.WpfLibrary.csproj|solutionrelative:chartwpfmvvm.wpflibrary\\internals\\canvaschartvisualhost.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5E6442D8-9011-4C6A-9BB9-2D1E7FC2DFAB}|ChartWpfMVVM.WpfLibrary\\ChartWpfMVVM.WpfLibrary.csproj|c:\\users\\akiro\\source\\repos\\chartwpfmvvm\\chartwpfmvvm.wpflibrary\\icanvaschartdrawer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5E6442D8-9011-4C6A-9BB9-2D1E7FC2DFAB}|ChartWpfMVVM.WpfLibrary\\ChartWpfMVVM.WpfLibrary.csproj|solutionrelative:chartwpfmvvm.wpflibrary\\icanvaschartdrawer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{92A576A3-76E2-495F-B96F-EC9E1189A62A}|ChartWpfMVVM\\ChartWpfMVVM.csproj|c:\\users\\akiro\\source\\repos\\chartwpfmvvm\\chartwpfmvvm\\arrayvaluerpm.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{92A576A3-76E2-495F-B96F-EC9E1189A62A}|ChartWpfMVVM\\ChartWpfMVVM.csproj|solutionrelative:chartwpfmvvm\\arrayvaluerpm.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 9,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "ICanvasChartInterpolator.cs",
+              "DocumentMoniker": "C:\\Users\\akiro\\source\\repos\\ChartWpfMVVM\\ChartWpfMVVM.WpfLibrary\\Interpolators\\ICanvasChartInterpolator.cs",
+              "RelativeDocumentMoniker": "ChartWpfMVVM.WpfLibrary\\Interpolators\\ICanvasChartInterpolator.cs",
+              "ToolTip": "C:\\Users\\akiro\\source\\repos\\ChartWpfMVVM\\ChartWpfMVVM.WpfLibrary\\Interpolators\\ICanvasChartInterpolator.cs",
+              "RelativeToolTip": "ChartWpfMVVM.WpfLibrary\\Interpolators\\ICanvasChartInterpolator.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-09T19:21:54.97Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "CanvasChartVisualHost.cs",
+              "DocumentMoniker": "C:\\Users\\akiro\\source\\repos\\ChartWpfMVVM\\ChartWpfMVVM.WpfLibrary\\Internals\\CanvasChartVisualHost.cs",
+              "RelativeDocumentMoniker": "ChartWpfMVVM.WpfLibrary\\Internals\\CanvasChartVisualHost.cs",
+              "ToolTip": "C:\\Users\\akiro\\source\\repos\\ChartWpfMVVM\\ChartWpfMVVM.WpfLibrary\\Internals\\CanvasChartVisualHost.cs",
+              "RelativeToolTip": "ChartWpfMVVM.WpfLibrary\\Internals\\CanvasChartVisualHost.cs",
+              "ViewState": "AQIAABIAAAAAAAAAAAA5wAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-09T19:21:47.214Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "CanvasChartBasicInterpolators.cs",
+              "DocumentMoniker": "C:\\Users\\akiro\\source\\repos\\ChartWpfMVVM\\ChartWpfMVVM.WpfLibrary\\Interpolators\\CanvasChartBasicInterpolators.cs",
+              "RelativeDocumentMoniker": "ChartWpfMVVM.WpfLibrary\\Interpolators\\CanvasChartBasicInterpolators.cs",
+              "ToolTip": "C:\\Users\\akiro\\source\\repos\\ChartWpfMVVM\\ChartWpfMVVM.WpfLibrary\\Interpolators\\CanvasChartBasicInterpolators.cs",
+              "RelativeToolTip": "ChartWpfMVVM.WpfLibrary\\Interpolators\\CanvasChartBasicInterpolators.cs",
+              "ViewState": "AQIAAAUAAAAAAAAAAAAQwAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-09T19:21:41.697Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "CanvasChartSettings.cs",
+              "DocumentMoniker": "C:\\Users\\akiro\\source\\repos\\ChartWpfMVVM\\ChartWpfMVVM.WpfLibrary\\CanvasChartSettings.cs",
+              "RelativeDocumentMoniker": "ChartWpfMVVM.WpfLibrary\\CanvasChartSettings.cs",
+              "ToolTip": "C:\\Users\\akiro\\source\\repos\\ChartWpfMVVM\\ChartWpfMVVM.WpfLibrary\\CanvasChartSettings.cs",
+              "RelativeToolTip": "ChartWpfMVVM.WpfLibrary\\CanvasChartSettings.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-09T19:21:18.215Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "ICanvasChartDrawer.cs",
+              "DocumentMoniker": "C:\\Users\\akiro\\source\\repos\\ChartWpfMVVM\\ChartWpfMVVM.WpfLibrary\\ICanvasChartDrawer.cs",
+              "RelativeDocumentMoniker": "ChartWpfMVVM.WpfLibrary\\ICanvasChartDrawer.cs",
+              "ToolTip": "C:\\Users\\akiro\\source\\repos\\ChartWpfMVVM\\ChartWpfMVVM.WpfLibrary\\ICanvasChartDrawer.cs",
+              "RelativeToolTip": "ChartWpfMVVM.WpfLibrary\\ICanvasChartDrawer.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-09T19:21:16.264Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "ICanvasChartComponent.cs",
+              "DocumentMoniker": "C:\\Users\\akiro\\source\\repos\\ChartWpfMVVM\\ChartWpfMVVM.WpfLibrary\\ICanvasChartComponent.cs",
+              "RelativeDocumentMoniker": "ChartWpfMVVM.WpfLibrary\\ICanvasChartComponent.cs",
+              "ToolTip": "C:\\Users\\akiro\\source\\repos\\ChartWpfMVVM\\ChartWpfMVVM.WpfLibrary\\ICanvasChartComponent.cs",
+              "RelativeToolTip": "ChartWpfMVVM.WpfLibrary\\ICanvasChartComponent.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-09T19:21:14.525Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "ArrayValueRPM.cs",
+              "DocumentMoniker": "C:\\Users\\akiro\\source\\repos\\ChartWpfMVVM\\ChartWpfMVVM\\ArrayValueRPM.cs",
+              "RelativeDocumentMoniker": "ChartWpfMVVM\\ArrayValueRPM.cs",
+              "ToolTip": "C:\\Users\\akiro\\source\\repos\\ChartWpfMVVM\\ChartWpfMVVM\\ArrayValueRPM.cs",
+              "RelativeToolTip": "ChartWpfMVVM\\ArrayValueRPM.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAYAAAAIAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-09T11:16:36.528Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "CanvasChartComponent.cs",
+              "DocumentMoniker": "C:\\Users\\akiro\\source\\repos\\ChartWpfMVVM\\ChartWpfMVVM.WpfLibrary\\CanvasChartComponent.cs",
+              "RelativeDocumentMoniker": "ChartWpfMVVM.WpfLibrary\\CanvasChartComponent.cs",
+              "ToolTip": "C:\\Users\\akiro\\source\\repos\\ChartWpfMVVM\\ChartWpfMVVM.WpfLibrary\\CanvasChartComponent.cs",
+              "RelativeToolTip": "ChartWpfMVVM.WpfLibrary\\CanvasChartComponent.cs",
+              "ViewState": "AQIAAC0AAAAAAAAAAADwv0MAAAAhAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-09T11:07:08.937Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "ChartModel.cs",
+              "DocumentMoniker": "C:\\Users\\akiro\\source\\repos\\ChartWpfMVVM\\ChartWpfMVVM\\Models\\ChartModel.cs",
+              "RelativeDocumentMoniker": "ChartWpfMVVM\\Models\\ChartModel.cs",
+              "ToolTip": "C:\\Users\\akiro\\source\\repos\\ChartWpfMVVM\\ChartWpfMVVM\\Models\\ChartModel.cs",
+              "RelativeToolTip": "ChartWpfMVVM\\Models\\ChartModel.cs",
+              "ViewState": "AQIAAD8AAAAAAAAAAAAkwBYAAAAsAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-10T09:20:22.875Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "MainWindowViewModel.cs",
+              "DocumentMoniker": "C:\\Users\\akiro\\source\\repos\\ChartWpfMVVM\\ChartWpfMVVM\\ViewModels\\MainWindowViewModel.cs",
+              "RelativeDocumentMoniker": "ChartWpfMVVM\\ViewModels\\MainWindowViewModel.cs",
+              "ToolTip": "C:\\Users\\akiro\\source\\repos\\ChartWpfMVVM\\ChartWpfMVVM\\ViewModels\\MainWindowViewModel.cs",
+              "RelativeToolTip": "ChartWpfMVVM\\ViewModels\\MainWindowViewModel.cs",
+              "ViewState": "AQIAAB4AAAAAAAAAAAAcwEkAAAAeAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "OverriddenGroupName": "ChartWpfMVVM\\ViewModels",
+              "WhenOpened": "2024-10-09T10:56:57.705Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "MainWindow.xaml",
+              "DocumentMoniker": "C:\\Users\\akiro\\source\\repos\\ChartWpfMVVM\\ChartWpfMVVM\\Views\\MainWindow.xaml",
+              "RelativeDocumentMoniker": "ChartWpfMVVM\\Views\\MainWindow.xaml",
+              "ToolTip": "C:\\Users\\akiro\\source\\repos\\ChartWpfMVVM\\ChartWpfMVVM\\Views\\MainWindow.xaml",
+              "RelativeToolTip": "ChartWpfMVVM\\Views\\MainWindow.xaml",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2024-10-09T11:03:11.7Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

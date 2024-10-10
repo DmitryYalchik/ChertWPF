@@ -1,0 +1,11 @@
+C:\Users\akiro\source\repos\ChartWpfMVVM\ChartWpfMVVM.WpfLibrary\bin\Debug\net8.0-windows\ChartWpfMVVM.WpfLibrary.deps.json
+C:\Users\akiro\source\repos\ChartWpfMVVM\ChartWpfMVVM.WpfLibrary\bin\Debug\net8.0-windows\ChartWpfMVVM.WpfLibrary.dll
+C:\Users\akiro\source\repos\ChartWpfMVVM\ChartWpfMVVM.WpfLibrary\bin\Debug\net8.0-windows\ChartWpfMVVM.WpfLibrary.pdb
+C:\Users\akiro\source\repos\ChartWpfMVVM\ChartWpfMVVM.WpfLibrary\obj\Debug\net8.0-windows\ChartWpfMVVM.WpfLibrary.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\akiro\source\repos\ChartWpfMVVM\ChartWpfMVVM.WpfLibrary\obj\Debug\net8.0-windows\ChartWpfMVVM.WpfLibrary.AssemblyInfoInputs.cache
+C:\Users\akiro\source\repos\ChartWpfMVVM\ChartWpfMVVM.WpfLibrary\obj\Debug\net8.0-windows\ChartWpfMVVM.WpfLibrary.AssemblyInfo.cs
+C:\Users\akiro\source\repos\ChartWpfMVVM\ChartWpfMVVM.WpfLibrary\obj\Debug\net8.0-windows\ChartWpfMVVM.WpfLibrary.csproj.CoreCompileInputs.cache
+C:\Users\akiro\source\repos\ChartWpfMVVM\ChartWpfMVVM.WpfLibrary\obj\Debug\net8.0-windows\ChartWpfMVVM.WpfLibrary.dll
+C:\Users\akiro\source\repos\ChartWpfMVVM\ChartWpfMVVM.WpfLibrary\obj\Debug\net8.0-windows\refint\ChartWpfMVVM.WpfLibrary.dll
+C:\Users\akiro\source\repos\ChartWpfMVVM\ChartWpfMVVM.WpfLibrary\obj\Debug\net8.0-windows\ChartWpfMVVM.WpfLibrary.pdb
+C:\Users\akiro\source\repos\ChartWpfMVVM\ChartWpfMVVM.WpfLibrary\obj\Debug\net8.0-windows\ref\ChartWpfMVVM.WpfLibrary.dll
